@@ -9,3 +9,7 @@ Existen alternativas a git, como mercurial, svn, por nombrar algunas. Git es pro
 Github, por su parte, es una página web: http://github.com. Provee un servicio de almacenamiento repositorios manejados con git.
 
 También existen alternativas a github. Bitbucket es probablemente la alternativa más popular. Github es la página más popular, especialmente para código libre.
+
+#### Veamos un ejemplo práctico de lo que git puede hacer.
+
+Ejemplo: [Plot de una función de Gauss.](https://github.com/uchileFI3104B-2015B/gaussexample)
