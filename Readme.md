@@ -35,28 +35,8 @@ Para las tareas usaremos un software de _version control_: [git](https://git-scm
 
 Los ítems a evaluar en las tareas son:
 
-- xx% resolución correcta del problema presentado.
-- xx% calidad del reporte entregado: demuestra comprensión del problema y su solución, claridad del lenguage, calidad de las figuras utilizadas.
-- xx% diseño del código: claridad, modularidad, respeto a las pautas sintácticas.
+- 35% resolución correcta del problema presentado.
+- 50% calidad del reporte entregado: demuestra comprensión del problema y su solución, claridad del lenguage, calidad de las figuras utilizadas.
+- 15% diseño del código: claridad, modularidad, respeto a las pautas sintácticas.
 
 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
