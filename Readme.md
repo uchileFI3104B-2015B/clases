@@ -15,7 +15,7 @@ Además, el curso busca incentivar el desarrollo de _buenas prácticas_ en el us
 - Re-utilización de software. Utilizar software de acceso público cuando se pueda, pero también diseñar software reutilizable en el futuro.
 - Prácticas modernas de testing y debugging.
 
-El lenguage de programación oficial del curso es [Python 3](http://www.python.org). En particular, vamos a utilizar la distribución [Anaconda Python](https://store.continuum.io/cshop/anaconda/) para uniformar las versiones.
+El lenguage de programación oficial del curso es [Python 2](http://www.python.org). En particular, vamos a utilizar la distribución [Anaconda Python](https://store.continuum.io/cshop/anaconda/) para uniformar las versiones.
 
 Para las tareas usaremos un software de _version control_: [git](https://git-scm.com/), y la plataforma [github](http://www.github.com) (clase de 1).
 
