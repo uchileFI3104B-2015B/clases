@@ -12,4 +12,4 @@ También existen alternativas a github. Bitbucket es probablemente la alternativ
 
 #### Veamos un ejemplo práctico de lo que git puede hacer.
 
-Ejemplo: [Plot de una función de Gauss.](https://github.com/uchileFI3104B-2015B/gaussexample)
+Ejemplo y mini ejercicio nro. 1: [Plot de una función de Gauss.](https://github.com/uchileFI3104B-2015B/gaussexample)
